@@ -1,12 +1,13 @@
 # Python源码与gitbook文档
 
-### 1. code目录为python代码
+
+### 1.code为python源码目录
 
 ![](screenshot1.png)
 
-<br>
-<br>
 
-### 2. gitbook目录为md笔记，通过gitbook serve .能够生成html笔记
+### 2.gitbook为python笔记
+
+> **通过gitbook serve能够生产html网页版笔记**
 
 ![](screenshot.png)
